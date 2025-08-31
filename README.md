@@ -26,3 +26,10 @@ This project implements a smart sprinkler system that automates irrigation by co
 
 ## Project Structure
 
+├── esp8266/
+│ └── [ESP-related modules and helpers]
+├── iot_gui/
+│ └── [User interface files—web app or desktop]
+├── esp8266.ino
+└── README.md
+
